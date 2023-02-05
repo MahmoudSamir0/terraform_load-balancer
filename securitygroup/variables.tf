@@ -1,0 +1,3 @@
+variable "ivpc" {
+  type=string
+}
