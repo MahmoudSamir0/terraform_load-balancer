@@ -33,3 +33,9 @@
 **all-ips.txt**
 
 ![all-ip](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-34-28.png)
+
+**workspace dev**
+
+![workspace](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/workspace.png)
+
+
