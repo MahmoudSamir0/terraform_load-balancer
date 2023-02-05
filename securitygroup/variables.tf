@@ -1,3 +1,3 @@
 variable "ivpc" {
-  type=string
+  type = string
 }

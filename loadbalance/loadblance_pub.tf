@@ -2,7 +2,7 @@ resource "aws_lb" "pub_load" {
   name            = "puload"
   internal        = false
   security_groups = [module.mysecurity.my_public_elb_sg_id]
-  subnets         = [module.netw.publice_ip_az1,module.netw.publice_ip_az2]
+  subnets         = [module.netw.publice_ip_az1, module.netw.publice_ip_az2]
 }
 
 resource "aws_lb_listener" "pub_listener" {
