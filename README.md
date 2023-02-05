@@ -18,3 +18,13 @@
 
 ![dns](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-28-20.png)
 ![dns2](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-10-57.png)
+
+
+**the configuration of the proxy**
+
+![proxy1](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-40-41.png)
+![proxy2](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-42-25.png)
+
+**Screenshot from the s3 that contain the state file**
+
+![s3&dynmo](https://github.com/MahmoudSamir0/terraform_load-balancer/blob/master/screenshot/Screenshot%20from%202023-02-05%2021-21-44.png)
